@@ -1,0 +1,426 @@
+04 - - [17/Jun/2022 05:27:48] "POST /socket.io/?EIO=4&transport=polling&sid=6Jhg9JTfrivECsjkAAAM HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:49] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:49] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:49] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:49] "GET /socket.io/?EIO=4&transport=polling&sid=6Jhg9JTfrivECsjkAAAM HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:49] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:49] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:27:55] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:55] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:55] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:55] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:27:57] "GET /iot_footage_view HTTP/1.1" 200 -
+Android device disconnected
+157.48.74.104 - - [17/Jun/2022 05:28:03] "GET /socket.io/?EIO=4&transport=websocket&sid=fNgLwb8HxCq6J37TAAAC HTTP/1.1" 200 -
+Android device disconnected
+157.48.74.104 - - [17/Jun/2022 05:28:03] "GET /socket.io/?EIO=4&transport=websocket&sid=qwXAhQQiymobroWKAAAG HTTP/1.1" 200 -
+Android device disconnected
+157.48.74.104 - - [17/Jun/2022 05:28:03] "GET /socket.io/?EIO=4&transport=websocket&sid=6Jhg9JTfrivECsjkAAAM HTTP/1.1" 200 -
+Android device disconnected
+157.48.74.104 - - [17/Jun/2022 05:28:03] "GET /socket.io/?EIO=4&transport=websocket&sid=0HnHSgiTaK6xHj61AAAF HTTP/1.1" 200 -
+Android device disconnected
+157.48.74.104 - - [17/Jun/2022 05:28:03] "GET /socket.io/?EIO=4&transport=websocket&sid=2Say-dt6IV_1NzmHAAAA HTTP/1.1" 200 -
+Android device disconnected
+157.48.74.104 - - [17/Jun/2022 05:28:03] "GET /socket.io/?EIO=4&transport=websocket&sid=HDfFIk7gdd8QMN2qAAAE HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:28:12] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:28:12] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:28:16] "GET /socket.io/?EIO=4&transport=polling&sid=QYoCY1_fkbAGi7afAAAO HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:28:16] "POST /socket.io/?EIO=4&transport=polling&sid=QYoCY1_fkbAGi7afAAAO HTTP/1.1" 200 -
+Response recieved
+157.48.74.104 - - [17/Jun/2022 05:28:18] "GET /socket.io/?EIO=4&transport=polling&sid=QYoCY1_fkbAGi7afAAAO HTTP/1.1" 200 -
+Token recieved:  fzHLMAoZQvim8XstVZwbj6:APA91bHNda9dO-kOsgyTELrCKIf9eNnSvmEF_MD3H3QW0VM-YVKVYMObyKy3_82pauhQH6Kwrg2rDn1e_WLunAWTBiNat-2uhrk2kTzt0mnTofdby5aqkulFOeHA5uK6dEVREw8VNKcR
+157.48.74.104 - - [17/Jun/2022 05:28:22] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:28:32] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:28:43] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/8534827332838704886
+157.48.74.104 - - [17/Jun/2022 05:28:49] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:28:58] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:03] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:06] "GET /iot_footage_view HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:29:06] "POST /socket.io/?EIO=4&transport=polling&sid=ysRENH9bZB3QP55uAAAQ HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:06] "GET /socket.io/?EIO=4&transport=polling&sid=ysRENH9bZB3QP55uAAAQ HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:09] "GET /socket.io/?EIO=4&transport=polling&sid=ysRENH9bZB3QP55uAAAQ HTTP/1.1" 200 -
+Token recieved:  fzHLMAoZQvim8XstVZwbj6:APA91bHNda9dO-kOsgyTELrCKIf9eNnSvmEF_MD3H3QW0VM-YVKVYMObyKy3_82pauhQH6Kwrg2rDn1e_WLunAWTBiNat-2uhrk2kTzt0mnTofdby5aqkulFOeHA5uK6dEVREw8VNKcR
+157.48.74.104 - - [17/Jun/2022 05:29:09] "POST /socket.io/?EIO=4&transport=polling&sid=ysRENH9bZB3QP55uAAAQ HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:16] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:23] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:36] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:44] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:50] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:29:57] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:06] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:13] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:22] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:23] "GET /socket.io/?transport=websocket&EIO=4&sid=d3foWAdXFH-B5h5lAAAH&t=1655443666.4470265 HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:29] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:36] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:43] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:48] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:30:54] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:31:00] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:31:07] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:31:13] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:31:13] "GET /socket.io/?transport=polling&EIO=4&t=1655443872.9684653 HTTP/1.1" 200 -
+Client connected
+Quering
+157.48.74.104 - - [17/Jun/2022 05:31:25] "GET /iot_footage_view HTTP/1.1" 200 -
+Starting prediction
+157.48.74.104 - - [17/Jun/2022 05:31:34] "GET /iot_footage_view HTTP/1.1" 200 -
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 3s 3s/step
+[[3.2895129e-09 9.2733181e-09 1.0291947e-06 9.5424992e-05 8.8777945e-08
+  1.7227279e-07 4.6386739e-09 9.8838890e-01 3.5118535e-06 2.4441089e-03
+  3.5931494e-12 2.4498529e-06 3.7853376e-10 9.0641286e-03]]
+Client Disconnected!!
+projects/intruder-detection-41636/messages/2018049981143798332
+Response recieved
+^C * Serving Flask app 'server' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.14.103:80 (Press CTRL+C to quit)
+157.48.74.104 - - [17/Jun/2022 05:32:58] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:00] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:33:00] "POST /socket.io/?EIO=4&transport=polling&sid=665Lp-1OHTMB-AH4AAAA HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:00] "GET /socket.io/?EIO=4&transport=polling&sid=665Lp-1OHTMB-AH4AAAA HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:33:01] "POST /socket.io/?EIO=4&transport=polling&sid=IxXLu3J7LwZ8dNIJAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:01] "GET /socket.io/?EIO=4&transport=polling&sid=IxXLu3J7LwZ8dNIJAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:02] "GET /socket.io/?EIO=4&transport=polling&sid=IxXLu3J7LwZ8dNIJAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:02] "GET /socket.io/?transport=polling&EIO=4&t=1655443982.5807936 HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:04] "GET /socket.io/?EIO=4&transport=polling&sid=665Lp-1OHTMB-AH4AAAA HTTP/1.1" 200 -
+Client connected
+157.48.74.104 - - [17/Jun/2022 05:33:12] "GET /socket.io/?transport=polling&EIO=4&t=1655443992.5370233 HTTP/1.1" 200 -
+Client connected
+2022-06-17 05:33:15.660450: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+157.48.74.104 - - [17/Jun/2022 05:33:16] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:33:27] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:33:35] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+Response recieved
+Starting prediction
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 2s 2s/step
+[[4.1846406e-06 1.6088131e-06 8.8359918e-08 9.2923707e-05 9.2586715e-06
+  1.4427113e-06 1.1089733e-05 9.9970120e-01 1.2530651e-05 5.1436868e-06
+  1.2261677e-05 2.0160254e-05 1.2536382e-04 2.6228950e-06]]
+157.48.74.104 - - [17/Jun/2022 05:34:06] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:12] "GET /socket.io/?transport=websocket&EIO=4&sid=x0MNijFeAbauohaeAAAG&t=1655443993.464092 HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:34:14] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:19] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:27] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/5622225055965390035
+157.48.74.104 - - [17/Jun/2022 05:34:32] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:38] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:43] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:49] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:34:55] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:01] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:06] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:12] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:17] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:23] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:29] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:34] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:40] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:46] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:51] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:35:57] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:03] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:08] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:14] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:20] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:25] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:31] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:36] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:42] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:48] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:53] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:36:59] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:37:00] "GET /socket.io/?transport=polling&EIO=4&t=1655444220.1201837 HTTP/1.1" 200 -
+Client connected
+157.48.74.104 - - [17/Jun/2022 05:37:05] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:37:12] "GET /iot_footage_view HTTP/1.1" 200 -
+Response recieved
+157.48.74.104 - - [17/Jun/2022 05:37:21] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:37:33] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:37:34] "GET /socket.io/?transport=websocket&EIO=4&sid=v_1pG9KnQRtzl4v1AAAI&t=1655444220.7510362 HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:37:42] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:37:47] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/6799074757442330394
+157.48.74.104 - - [17/Jun/2022 05:37:53] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:37:58] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:04] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:10] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:16] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:21] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:27] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:33] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:39] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:45] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:50] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:38:56] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:01] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:07] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:13] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:18] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:21] "GET /socket.io/?transport=polling&EIO=4&t=1655444361.2510672 HTTP/1.1" 200 -
+Client connected
+157.48.74.104 - - [17/Jun/2022 05:39:24] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:39:32] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:40] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:40] "GET /socket.io/?transport=websocket&EIO=4&sid=RHvTnqYUrIQLoAoMAAAK&t=1655444361.8488793 HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/4982964569140133344
+157.48.74.104 - - [17/Jun/2022 05:39:48] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:54] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:39:59] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:05] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:11] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:11] "GET /socket.io/?transport=polling&EIO=4&t=1655444410.6480312 HTTP/1.1" 200 -
+Client connected
+157.48.74.104 - - [17/Jun/2022 05:40:16] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:40:22] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:28] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:34] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/8900917570359903748
+157.48.74.104 - - [17/Jun/2022 05:40:40] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:46] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:52] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:40:58] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:04] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:10] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:16] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:22] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:28] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:33] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:39] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:45] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:41:50] "GET /iot_footage_view HTTP/1.1" 200 -
+^C * Serving Flask app 'server' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.14.103:80 (Press CTRL+C to quit)
+157.48.74.104 - - [17/Jun/2022 05:42:01] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:03] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:03] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:42:03] "POST /socket.io/?EIO=4&transport=polling&sid=4fyJm8fqmaofG77zAAAA HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:03] "GET /socket.io/?EIO=4&transport=polling&sid=4fyJm8fqmaofG77zAAAA HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:42:04] "POST /socket.io/?EIO=4&transport=polling&sid=bMEVS9MWa7DNV8MFAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:04] "GET /socket.io/?EIO=4&transport=polling&sid=bMEVS9MWa7DNV8MFAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:04] "GET /socket.io/?EIO=4&transport=polling&sid=4fyJm8fqmaofG77zAAAA HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:04] "GET /socket.io/?EIO=4&transport=polling&sid=bMEVS9MWa7DNV8MFAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:05] "GET /socket.io/?transport=polling&EIO=4&t=1655444524.6200306 HTTP/1.1" 200 -
+Client connected
+2022-06-17 05:42:06.856146: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+157.48.74.104 - - [17/Jun/2022 05:42:07] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:42:13] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:25] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:42:33] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:42:46] "GET /iot_footage_view HTTP/1.1" 200 -
+Response recieved
+157.48.74.104 - - [17/Jun/2022 05:42:54] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:43:05] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:43:13] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:43:22] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:43:28] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:43:36] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+157.48.74.104 - - [17/Jun/2022 05:43:44] "GET /iot_footage_view HTTP/1.1" 200 -
+projects/intruder-detection-41636/messages/3745866669371612081
+157.48.74.104 - - [17/Jun/2022 05:43:50] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:43:57] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:44:04] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/6775812269041924561
+157.48.74.104 - - [17/Jun/2022 05:44:12] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:44:20] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:44:29] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:44:29] "GET /socket.io/?transport=polling&EIO=4&t=1655444668.436006 HTTP/1.1" 200 -
+Client connected
+157.48.74.104 - - [17/Jun/2022 05:44:35] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:44:44] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:44:52] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/3309721332453132400
+157.48.74.104 - - [17/Jun/2022 05:44:54] "GET /socket.io/?EIO=4&transport=polling&sid=xbdFSm6gEKfuxVpBAAAI HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:44:54] "POST /socket.io/?EIO=4&transport=polling&sid=xbdFSm6gEKfuxVpBAAAI HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:44:54] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:44:56] "GET /socket.io/?EIO=4&transport=polling&sid=xbdFSm6gEKfuxVpBAAAI HTTP/1.1" 200 -
+Token recieved:  fzHLMAoZQvim8XstVZwbj6:APA91bHNda9dO-kOsgyTELrCKIf9eNnSvmEF_MD3H3QW0VM-YVKVYMObyKy3_82pauhQH6Kwrg2rDn1e_WLunAWTBiNat-2uhrk2kTzt0mnTofdby5aqkulFOeHA5uK6dEVREw8VNKcR
+157.48.74.104 - - [17/Jun/2022 05:45:02] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+Response recieved
+Quering
+157.48.74.104 - - [17/Jun/2022 05:45:13] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:45:19] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:45:28] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+Quering
+157.48.74.104 - - [17/Jun/2022 05:45:37] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:45:45] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/5537629517162422801
+157.48.74.104 - - [17/Jun/2022 05:45:51] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/5928613928823440255
+Quering
+157.48.74.104 - - [17/Jun/2022 05:45:57] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:46:02] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:46:08] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/7027418987244289373
+157.48.74.104 - - [17/Jun/2022 05:46:14] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:46:19] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/2846978660331864976
+Quering
+157.48.74.104 - - [17/Jun/2022 05:46:25] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:46:31] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:46:31] "GET /socket.io/?transport=polling&EIO=4&t=1655444790.8205502 HTTP/1.1" 200 -
+Quering
+Client connected
+Quering
+157.48.74.104 - - [17/Jun/2022 05:46:38] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/2714410477563682316
+157.48.74.104 - - [17/Jun/2022 05:46:47] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+Quering
+157.48.74.104 - - [17/Jun/2022 05:46:56] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+Response recieved
+157.48.74.104 - - [17/Jun/2022 05:47:09] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+Starting prediction
+157.48.74.104 - - [17/Jun/2022 05:47:19] "GET /iot_footage_view HTTP/1.1" 200 -
+^C * Serving Flask app 'server' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.14.103:80 (Press CTRL+C to quit)
+157.48.74.104 - - [17/Jun/2022 05:47:26] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:28] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:29] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:29] "GET /socket.io/?EIO=4&transport=polling&sid=XKPPTdYMoYfklUc-AAAA HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:47:29] "POST /socket.io/?EIO=4&transport=polling&sid=XKPPTdYMoYfklUc-AAAA HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:29] "GET /socket.io/?transport=polling&EIO=4&t=1655444849.2100894 HTTP/1.1" 200 -
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:47:29] "POST /socket.io/?EIO=4&transport=polling&sid=B0z7k3J_GOZdqcyhAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:29] "GET /socket.io/?EIO=4&transport=polling&sid=B0z7k3J_GOZdqcyhAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:30] "GET /socket.io/?EIO=4&transport=polling&sid=XKPPTdYMoYfklUc-AAAA HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:30] "GET /socket.io/?EIO=4&transport=polling&sid=B0z7k3J_GOZdqcyhAAAB HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:30] "GET /socket.io/?EIO=4&transport=polling HTTP/1.1" 200 -
+Client connected
+Android device connected
+157.48.74.104 - - [17/Jun/2022 05:47:30] "POST /socket.io/?EIO=4&transport=polling&sid=JaFj_ReLKAcwF3ZrAAAF HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:30] "GET /socket.io/?EIO=4&transport=polling&sid=JaFj_ReLKAcwF3ZrAAAF HTTP/1.1" 200 -
+2022-06-17 05:47:31.442341: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+157.48.74.104 - - [17/Jun/2022 05:47:31] "GET /socket.io/?EIO=4&transport=polling&sid=JaFj_ReLKAcwF3ZrAAAF HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:32] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:47:39] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:47:49] "GET /iot_footage_view HTTP/1.1" 200 -
+Starting prediction
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 2s 2s/step
+[[1.8622681e-05 2.8064247e-07 8.9116536e-02 2.5951388e-04 3.2519376e-09
+  6.0990944e-05 2.7280516e-06 6.1724722e-01 4.8650458e-04 2.9272625e-01
+  6.0447281e-10 1.7588999e-08 3.0953938e-06 7.8104553e-05]]
+Response recieved
+157.48.74.104 - - [17/Jun/2022 05:47:59] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:48:10] "GET /iot_footage_view HTTP/1.1" 200 -
+Starting prediction
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 592ms/step
+[[1.7237697e-08 1.8049825e-07 5.2917213e-04 3.5113786e-05 1.8766325e-07
+  1.9118601e-05 1.0948075e-07 2.9109550e-01 4.6816171e-05 4.8853178e-02
+  6.1975751e-11 1.0492831e-08 7.9197855e-07 6.5941978e-01]]
+157.48.74.104 - - [17/Jun/2022 05:48:21] "GET /iot_footage_view HTTP/1.1" 200 -
+projects/intruder-detection-41636/messages/7063558227933532516
+Client Disconnected!!
+projects/intruder-detection-41636/messages/8158006436866355285
+157.48.74.104 - - [17/Jun/2022 05:48:29] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:48:37] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:48:45] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:48:50] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/8505814494636286640
+157.48.74.104 - - [17/Jun/2022 05:48:56] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:49:02] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:49:09] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:49:17] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/4407975822626350224
+157.48.74.104 - - [17/Jun/2022 05:49:25] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:49:31] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:49:38] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:49:45] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/4227636257861629242
+157.48.74.104 - - [17/Jun/2022 05:49:52] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:49:58] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:50:06] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:50:13] "GET /iot_footage_view HTTP/1.1" 200 -
+Client Disconnected!!
+projects/intruder-detection-41636/messages/4172956856297313095
+Quering
+157.48.74.104 - - [17/Jun/2022 05:50:24] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:50:30] "GET /iot_footage_view HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:50:35] "GET /socket.io/?transport=polling&EIO=4&t=1655445034.7885041 HTTP/1.1" 200 -
+157.48.74.104 - - [17/Jun/2022 05:50:36] "GET /iot_footage_view HTTP/1.1" 200 -
+Client connected
+Client Disconnected!!
+projects/intruder-detection-41636/messages/5757056927092668917
+157.48.74.104 - - [17/Jun/2022 05:50:42] "GET /iot_footage_view HTTP/1.1" 200 -
+Quering
+157.48.74.104 - - [17/Jun/2022 05:50:48] "GET /iot_footage_view HTTP/1.1" 200 -
+Response recieved
+Quering
+^C
